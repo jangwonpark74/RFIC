@@ -21,5 +21,8 @@
 
 ## JESD204C Primer
 - [What's New and in It for You-Part1](https://www.analog.com/en/analog-dialogue/articles/jesd204c-primer-part1.html)
-- [What's New and in It for You-Part2](https://www.analog.com/en/analog-dialogue/articles/jesd204c-primer-part2.html)   
+- [What's New and in It for You-Part2](https://www.analog.com/en/analog-dialogue/articles/jesd204c-primer-part2.html)  
+
+## JESD204C System Design Considerations
+- [TI's evaluation on JESD204C physical layer, link layers, and transport layers](https://www.ti.com/lit/an/sbaa402/sbaa402.pdf) 
 
