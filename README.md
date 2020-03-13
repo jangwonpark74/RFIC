@@ -16,7 +16,8 @@
 
 - 4-W power consumption from 1.1- and 1.9-V rails.
   
-
+## Analog Devices's Interleaving ADCs
+- [Interleaving ADCs: Unraveling the Misteries](https://www.analog.com/en/analog-dialogue/articles/interleaving-adcs.html)
 
   
 
